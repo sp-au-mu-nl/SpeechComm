@@ -6,7 +6,7 @@
 
 ## 動作確認環境
 
-- Google Colab（https://colab.research.google.com/）
+- Google Colab（ https://colab.research.google.com/ ）
 - Python 3.x
 - Jupyter Notebook（任意）
 
