@@ -2,7 +2,7 @@
 
 このリポジトリには、『[Pythonで学ぶ音声コミュニケーション情報処理](https://www.asakura.co.jp/detail.php?book_code=12302)』各章のプログラムやデータが含まれています。プログラムの動作確認は **Google Colab** で行っていますが、 **Jupyter Notebook** でも動作します。
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sp-au-mu-nl/SpeechComm)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg){:target="_blank"}](https://colab.research.google.com/github/sp-au-mu-nl/SpeechComm)
 
 ## 動作確認環境
 
@@ -35,7 +35,7 @@
 [Google Colab](https://colab.research.google.com/)  を使用して、オンラインでプログラムを実行します。
 
 1. [GitHubのリポジトリページ](https://github.com//sp-au-mu-nl/SpeechComm)を開きます。  
-2. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sp-au-mu-nl/SpeechComm) ボタン（または [Google Colab](https://colab.research.google.com/) 上で「GitHub から開く」）をクリックします。
+2. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg){:target="_blank"}](https://colab.research.google.com/github/sp-au-mu-nl/SpeechComm) ボタン（または [Google Colab](https://colab.research.google.com/){:target="_blank"} 上で「GitHub から開く」）をクリックします。
 3. 実行したい章の `.ipynb` ファイルをクリックします。  
 
 ### 2. 自分のパソコンにインストールして動かしたい場合
@@ -44,7 +44,7 @@ PythonとJupyter Notebookを自分のパソコンにインストールして、�
 さまざまな方法がありますが、一例として、Pythonのプログラミング環境 Anaconda（PythonとJupyterがセットになったソフト）を使う方法を紹介します。
 
 1. Anaconda をインストール  
-　→ [https://www.anaconda.com/products/distribution](https://www.anaconda.com/products/distribution)
+　→ [https://www.anaconda.com/products/distribution](https://www.anaconda.com/products/distribution){:target="_blank"}
 
 2. Anaconda Navigator (Windowsの場合) または ターミナルに `jupyter notebook` と入力して (Macの場合) 、Jupyter Notebook を起動  
 
