@@ -76,4 +76,6 @@ PythonとJupyter Notebookを自分のパソコンにインストールして、�
 | 第5章 5.4節  | `example_module.py`| 非推奨メソッドを新しい形式に変更          | 2025-04-21   |
 -->
 
+---
+
 プログラムに関するご質問や誤りのご報告は、GitHubの[Issueページ](https://github.com/sp-au-mu-nl/SpeechComm/issues)からお気軽にご連絡ください。
